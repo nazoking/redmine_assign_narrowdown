@@ -1,0 +1,6 @@
+redmine plugin for narrow down issue assinged member
+
+チケットの担当者を絞り込む Redmine plugin です。
+更新時に「担当者」プルダウンの横に現れる「関係者のみ」というcheckboxをcheckすると、そのチケットの関係者らしき人だけに絞り込まれます。
+
+
